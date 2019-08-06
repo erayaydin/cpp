@@ -1,0 +1,6 @@
+[submodule "Libraries/GLFW"]
+	path = Libraries/GLFW
+	url = git@github.com:glfw/glfw.git
+[submodule "Libraries/Glitter"]
+	path = Libraries/Glitter
+	url = git@github.com:Polytonic/Glitter.git
