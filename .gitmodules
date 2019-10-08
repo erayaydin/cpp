@@ -4,3 +4,6 @@
 [submodule "Libraries/Glitter"]
 	path = Libraries/Glitter
 	url = git@github.com:Polytonic/Glitter.git
+[submodule "Libraries/Urho3D"]
+	path = Libraries/Urho3D
+	url = git@github.com:urho3d/Urho3D.git
